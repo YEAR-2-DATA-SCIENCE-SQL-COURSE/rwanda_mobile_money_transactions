@@ -138,6 +138,8 @@ Rwanda-Mobile-Money/
 │
 └── presentation/
     └── Rwanda_mobile_money_transaction.pptx
+    └── Screenshots
+
 ```
 
 ### 7.2 SQL Operations Implemented
@@ -155,10 +157,6 @@ The project demonstrates the following SQL operations:
 - ORDER BY
 - GROUP BY
 - HAVING
-- INNER JOIN
-- LEFT JOIN
-- Aggregate Functions
-- Subqueries
 - Indexing
 
 ## 8. Practical Demonstration and Results
