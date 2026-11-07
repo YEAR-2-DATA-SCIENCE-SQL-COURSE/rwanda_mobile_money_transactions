@@ -6,16 +6,13 @@
 
 SELECT * FROM agents;
 
-
 -- TASK 2: Display all customers.
 
 SELECT * FROM customers;
 
-
 -- TASK 3: Display all wallets.
 
 SELECT * FROM wallets;
-
 
 -- TASK 4: Display customers with wallet balances.
 
@@ -27,13 +24,11 @@ FROM customers c
 INNER JOIN wallets w
 ON c.customer_id = w.customer_id;
 
-
 -- TASK 5: Find wallets with balances greater than 50000.
 
 SELECT *
 FROM wallets
 WHERE balance > 50000;
-
 
 -- TASK 6: Display successful transfers.
 
@@ -48,13 +43,11 @@ SELECT *
 FROM transfers
 WHERE status = 'Failed';
 
-
 -- TASK 8: Order transfers from newest to oldest.
 
 SELECT *
 FROM transfers
 ORDER BY transfer_date DESC;
-
 
 -- TASK 9: Find a customer using their phone number.
 
