@@ -74,6 +74,7 @@ The project was implemented using PostgreSQL as the primary database management 
 - **pgAdmin / PostgreSQL Query Tool / VS Code:** Used to execute SQL commands and manage the database.
 - **GitHub:** Used for project storage, collaboration, and version control.
 - **Draw.io:** Used to design the Entity Relationship Diagram (ERD).
+- **PowerBI:** Used for data visualization
 
 ### 5.2 Implementation Steps
 
