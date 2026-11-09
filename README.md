@@ -8,7 +8,7 @@ The system focuses on managing agents, customers, wallets, money transfers, and 
 
 The project uses PostgreSQL to demonstrate relational database concepts, including table creation, primary keys, foreign keys, constraints, relationships, and SQL queries.
 
-## 2. Problem Statement
+## 2. Problems Statement
 
 Mobile money services have become an important part of financial transactions in Rwanda. People use these services to send and receive money, deposit funds, and withdraw cash.
 
