@@ -267,6 +267,7 @@ The following table describes the responsibilities assigned to each group member
 | 202512173 | Data insertion and SQL query implementation. |
 | 202412174 | Testing, documentation, and presentation preparation. |
 | 202520487 | Testing, documentation, and presentation preparation. |
+| 202511270 | Database design, table creation, values inputing |
 
 ## 13. Conclusion
 
