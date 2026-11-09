@@ -1,4 +1,4 @@
-# Rwanda Mobile Money Transaction Management System
+# Rwanda Mobile Money Transaction Management System.
 
 ## 1. Introduction
 
